@@ -15,7 +15,7 @@
 docker-compose up
 ```
 通过如下配置访问数据库
-- 用户名：user
+- 用户名：root
 - 密码：123
 - 数据库名字：projectdb
 - 地址：127.0.0.1
